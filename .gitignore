@@ -1,0 +1,7 @@
+# netbeans project files
+nbproject
+node_modules
+platforms
+#plugins
+#www_orig
+.DS_Store
